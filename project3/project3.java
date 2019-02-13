@@ -225,7 +225,7 @@ public class project3 {
 			}
 			this.printDiagram();
 		}
-		void HRRN(){//???? max((arrival_time + exec_time)/exec_time)
+		void HRRN(){//Highest Response Ratio max((arrival_time + exec_time)/exec_time)
 			int time = 0;
 			int HRRNmax = 0;
 			boolean running = false;
